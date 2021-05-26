@@ -28,9 +28,7 @@ customize each of them according to your needs.
 # About Me
 Our Website: https://www.soorban.com/
 
-
-
-And, if you use a Mac then you may also love [Presentify](https://presentify.compzets.com/). Give it a whirl and let me know your thoughts.
+If you are interested in Persian language, visit [Delgarm](https://www.delgarm.com/) website
 
 # Contribute
 Firstly, a big thanks 🙏🏻 for the overwhelming response on [HackerNews](https://news.ycombinator.com/item?id=18556787) and [Reddit](https://www.reddit.com/r/opensource/comments/a1bx4h/i_am_open_sourcing_my_wedding_website_on_my_first/). I would be more than happy for [PRs](https://help.github.com/articles/about-pull-requests/) or [gifts](https://www.paypal.me/ramswaroop) ;) Just kidding, ignore it. A follow on [Twitter](https://twitter.com/ram__patra) would be just fine.
